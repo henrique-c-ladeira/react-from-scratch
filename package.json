@@ -1,0 +1,8 @@
+{
+  "name": "raw-react",
+  "version": "0.0.1",
+  "description": "React page started from scratch",
+  "main": "index.js",
+  "author": "Henrique <henrique.c.ladeira@gmail.com>",
+  "license": "MIT"
+}
